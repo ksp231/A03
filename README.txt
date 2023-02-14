@@ -1,8 +1,9 @@
 # A03
+
 - Installing Git
 
 1. Install Homebrew via the command terminal using the command $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-2. Install Git via Homebrew using $ brew install git
+2. Install **Git** via Homebrew using $ brew install git
 3. Once Git is installed, install Webstorm via the JetBrains student license
 
 - Using GitHub
