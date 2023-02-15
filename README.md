@@ -13,7 +13,14 @@
 3. When on the new **repository** page, ensure it is set to Public if it is meant to be viewed by others, and make sure the “Add README file” box is checked
 4. Click create **repository**
 
-- Using Webstorm
+- Installing Webstorm
+1. Open the JetBrains website to the student licence page (https://www.jetbrains.com/community/education/#students)
+2. Scroll to where it says "Get free access to all developer tools from JetBrains!" and click "Apply now"
+3. Apply using a document to ensure the application goes through (I recommend a certificate of enrollment)
+4. Wait for the reply email saying you were approved for a license
+5. Download Webstorm using the link provided in the email.
+
+- Connecting GitHub to Webstorm
 
 1. Open the preferences and under the Version Control tab, click **Git**
 2. Webstorm should automatically detect the folder for **Git**
