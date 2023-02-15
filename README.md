@@ -19,21 +19,21 @@
 2. Webstorm should automatically detect the folder for **Git**
     1. If not, click “download and install”
 3. Click test to check if the installation worked
-4. After it’s been installed, open the **Github** Tab
-5. Click “Add account” and then “Login via **Github** ”
+4. After it’s been installed, open the **GitHub** Tab
+5. Click “Add account” and then “Login via **GitHub** ”
 6. When prompted click “Authenticate”
 7. HIT APPLY in Webstorm to apply all changes
 
 - Using Webstorm to open Repositories
 
 1. Open Webstorm
-2. Click “Get from VCS” to open a **repository** from **Github**
+2. Click “Get from VCS” to open a **repository** from **GitHub**
 3. Click the desired **repository** and click “clone”
 4. Open the desired file (in this case README.md)
 5. Edit the file in the desired way
-6. When done, click the little green checkmark in the corner and click “ **Commit** and **Push** ” to save the changes to **Github**
+6. When done, click the little green checkmark in the corner and click “ **Commit** and **Push** ” to save the changes to **GitHub**
 7. Make sure the **Commit** has a unique **Commit** Message
-8. Check **Github** to see the changes
+8. Check **GitHub** to see the changes
 9. Celebrate :D
 
 Glossary:
@@ -43,7 +43,7 @@ Glossary:
 3. Commit: Changes saved to the file.
 4. Fetch: Downloads files, commits, and refs from a remote repository into a local repository (6)
 5. GIT: Git is an open source version control system which lets you track changes made to files
-6. Github: A website that allows users to connect their files and create repositories
+6. GitHub: A website that allows users to connect their files and create repositories
 7. Merge: Combine multiple changes
 8. Merge Conflict: When you merge branches that have different commits, there is a conflict, like two conflicting stories on the same topic. The user must resolve these changes. (5)
 9. Push: Sending the changes to GitHub (1)
@@ -53,7 +53,7 @@ Glossary:
 
 References:
 
-1. IS 117 - IntroToGitHub-20190318 Powerpoint
+1. IS 117 - IntroToGitHub-20190318 PowerPoint
 2. Git: https://git-scm.com/download/mac
 3. Github: https://github.com
 4. Homebrew website: https://brew.sh
